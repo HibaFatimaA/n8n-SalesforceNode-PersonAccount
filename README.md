@@ -11,4 +11,4 @@ This package provides **n8n** nodes to interact with Salesforce **PersonAccount*
 In your **n8n** root directory, run:
 
 ```bash
-npm install n8n-nodes-salesforce-personaccount
+npm install n8n-SalesforceNode-PersonAccount
