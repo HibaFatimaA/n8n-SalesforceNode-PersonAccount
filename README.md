@@ -1,11 +1,14 @@
-### Manual installation
+# n8n Nodes for Salesforce PersonAccounts
 
-To get started install the package in your n8n root directory:
+This package provides **n8n** nodes to interact with Salesforce **PersonAccount** records.
 
-`npm install n8n-nodes-salesforce-ocapi`
+---
 
+## Installation
 
-For Docker-based deployments, add the following line before the font installation command in your [n8n Dockerfile](https://github.com/n8n-io/n8n/blob/master/docker/images/n8n/Dockerfile):
+### 1. **Install the Package**
 
+In your **n8n** root directory, run:
 
-`RUN cd /usr/local/lib/node_modules/n8n && npm install n8n-nodes-salesforce-ocapi`
+```bash
+npm install n8n-nodes-salesforce-personaccount
